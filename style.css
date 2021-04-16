@@ -1,0 +1,31 @@
+body{
+	font-family: sans-serif,cursive;
+	background-color: #ccc;
+	margin: 50px;
+}
+
+img{
+	width: 93%;
+	display: block;
+	margin: auto;
+}
+
+h1,h3
+{
+	text-decoration: uppercase;
+	color: green;
+	text-align: center;
+	background-color: wheat;
+
+}
+
+h1,h3,div,article{
+	border:1px solid black;
+	margin: 20px;
+}
+
+article{
+	background-color: #ddd;
+	text-align: justify;
+	padding: 20px;
+}
